@@ -1,1 +1,14 @@
 /* Try different box model properties below */
+.site-header>p{
+    color: white;
+}
+.site-header{
+    margin-bottom: -15px;
+}
+.site-footer>p{
+font-size: 12px;
+text-align: center;
+}
+.site-footer:last-child {
+box-shadow:4px 4px #dba944;
+}

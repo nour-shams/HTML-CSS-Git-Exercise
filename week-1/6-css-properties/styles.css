@@ -1,1 +1,29 @@
 /* Add your CSS code below */
+
+
+.message_time {
+font-size: 0.9rem;
+}
+
+  a{
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  .message {
+    line-height: 1.5em;
+    }
+
+ .message--unread { 
+        border-left: blue;
+        border-left-style: solid;
+        
+
+        }
+
+
+
+    .message:first-of-type {
+        background-color: transparent;
+        }
